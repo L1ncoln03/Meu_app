@@ -4,7 +4,7 @@ import './Letreiro.css';
 class Letreiro extends React.Component {
   constructor(props) {
     super(props);
-    this.textoTotal = "Conheça a Fatec";
+    this.textoTotal = "CConheça a Fatec";
     this.i = 0;
 
     this.state = {
